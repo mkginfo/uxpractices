@@ -1,4 +1,3 @@
-uxpractices
+UX Practices
 ===========
 
-ux practices
